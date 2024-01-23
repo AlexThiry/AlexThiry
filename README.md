@@ -1,6 +1,6 @@
 - 👋🤙 Hey, I’m Alex!
 - 🎮👾 I’m interested in game development software development and even machine learning.
-- 💻💾 I’m currently learning C++ and developing my indie game.
+- 💻💾 I’m currently learning React, C++ and developing my own indie game.
 
 - 🏁🏎️ Fun fact: I love cars!
 
